@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Привет!
 
-<!--
-**sequze/sequze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий бэкенд-разработчик
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Текущие проекты
+- **Бэкенд**: Разрабатываю пет-проект на Flask
+- **Java**: Создаю библиотечную систему для практики ООП.
+
+---
+## 🛠️ Навыки
+- **Языки программирования**: Python, Java, SQL, C/C++
+- **Технологии**: Django, Flask, sqlite3
+
+---
+
+## 📚 Образование
+Студент 1-го курса кфу итис, специализация — программная инженерия.
+
+---
+## 📈 GitHub Статистика:
+
+![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sequze&show_icons=true&theme=radical)
+
+
+## 📫 Как связаться со мной?
+- Email: sequze@mail.ru
+- telegram: @sequze
